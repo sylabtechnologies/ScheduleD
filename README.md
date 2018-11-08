@@ -1,2 +1,4 @@
 # ScheduleD = just 1-day mockup
-# and convert to unordered map
+# - Pre-Alpha! 
+#
+# Task 1: convert to unordered map
